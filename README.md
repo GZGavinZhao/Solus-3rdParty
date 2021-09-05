@@ -4,6 +4,8 @@
 I am no longer willing to maintain the packages to the latest version as I no longer use them.  
 You can use this as the template of your repo and maintain if you want. -->
 
+Note: see [here](https://github.com/GZGavinZhao/solus-grocery-store) for the newest build!
+
 ## Disclaimer
 These packages are **not official**, they are neither supported nor endorsed by the official Solus devs or MSEdge devs. Do not ask for help in Solus's/Microsoft's help forum, instead create an issue [here](https://github.com/GZGavinZhao/msedge-solus/issues). 
 
